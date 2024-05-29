@@ -47,6 +47,16 @@ Ou também
 
 Este aplicativo utiliza a API do OpenWeather para obter os dados meteorológicos. Você pode encontrar mais informações sobre a API [aqui](https://openweathermap.org/api).
 
+## ✒️ Autores
+
+* **Arthur Bonifácio Fazioni**
+* **Gabriel Martinez Machado**
+* **Lucas Foganholi Fernandes**
+* **Matheus Pereira de Goes**
+
+
+
+
 ## Contribuição 🤝
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para adicionar novos recursos, corrigir bugs ou melhorar a documentação.
