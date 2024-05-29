@@ -30,6 +30,7 @@ Ou também
 [☁️Clouds - Consulte o clima!](https://clouds-clima.netlify.app/#/current-location)
 
 7. Permita a seguinte configuração nas opções de conteudo seguro para o site:
+
 ![image](https://github.com/ArtFaz/Clouds-WeatherApp/assets/159386101/44b965bd-e7f3-4788-9b95-5858660822cc)
 
 ![image](https://github.com/ArtFaz/Clouds-WeatherApp/assets/159386101/852d39e2-c710-4fad-a795-7ae814d04bcc)
