@@ -12,7 +12,7 @@ Este é um aplicativo simples desenvolvido em HTML, CSS e JavaScript que utiliza
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/ArtFaz/Cloudi-p1
+git clone https://github.com/ArtFaz/Clouds-WeatherApp
 ```
 
 2. Abra o arquivo `index.html` em um local server.
