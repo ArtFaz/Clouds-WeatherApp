@@ -47,7 +47,7 @@ Ou também
 
 Este aplicativo utiliza a API do OpenWeather para obter os dados meteorológicos. Você pode encontrar mais informações sobre a API [aqui](https://openweathermap.org/api).
 
-## ✒️ Autores
+## Autores ✒️
 
 * **Arthur Bonifácio Fazioni**
 * **Gabriel Martinez Machado**
